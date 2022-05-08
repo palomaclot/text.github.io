@@ -27,7 +27,3 @@ Markdown 语言真的相当简单了。。。
 >这是引用
 
 这是一个链接 [微博](https://weibo.com/u/7447583298/home?wvr=5)。
-
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
-
-Markdown 网站的图。
