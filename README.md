@@ -1,5 +1,4 @@
 ## 这是一个个人博客
 
->hello?
-
-theme: jekyll-theme-hacker
+>Hello?
+>My name is Paloma, I am trying to write a personal blog without being disturbed. 
