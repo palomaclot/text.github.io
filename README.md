@@ -18,9 +18,11 @@ I think I'll use it to format all of my documents from now on.
 
 里面的文字用Markdown 语言编辑，
 
-Markdown 语言真的相当简单了。。。
+以后试试学习一下Hexo 或Jekyll 应该就可以DIY了。
 
-以后试试用Hexo 或Jekyll 看能不能搭建起来。
+这个博客也不算很独立（有GitHub 的后缀），
+
+但是别的高级一点的也不想做了，想想就累。。
 
 这是**强调**
 
