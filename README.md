@@ -24,6 +24,8 @@ I think I'll use it to format all of my documents from now on.
 
 但是别的高级一点的也不想做了，想想就累。。
 
+下次做个内嵌HTML就可以换字体了
+
 这是**强调**
 
 >这是引用
