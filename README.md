@@ -25,3 +25,5 @@ I think I'll use it to format all of my documents from now on.
 在cmd输入hexo init生成博客中
 
 hexo最初步的部分应该是完成了
+
+部署好了？或许？看不出什么区别啊
