@@ -27,3 +27,5 @@ I think I'll use it to format all of my documents from now on.
 hexo最初步的部分应该是完成了
 
 部署好了？或许？看不出什么区别啊
+
+我不弄了我不弄了我又搞出来一个hexo博客。。还是专心gp吧！
